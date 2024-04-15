@@ -1,0 +1,196 @@
+!XPM42
+64 64 130 2 c
+   #193500FF
+.  #1A3601FF
+X  #1B3702FF
+o  #1C3600FF
+O  #1C3803FF
++  #1E3802FF
+@  #1E3A05FF
+#  #1F3B06FF
+$  #203700FF
+%  #213801FF
+&  #263B00FF
+*  #273C01FF
+=  #203C07FF
+-  #233D07FF
+;  #253C05FF
+:  #283D02FF
+>  #293E03FF
+,  #233F0AFF
+<  #2B4005FF
+1  #2C4106FF
+2  #24400BFF
+3  #26400AFF
+4  #26420DFF
+5  #27430EFF
+6  #28440FFF
+7  #314100FF
+8  #374706FF
+9  #384807FF
+0  #3A4A09FF
+q  #3C4C0BFF
+w  #3F490CFF
+e  #3E4E0DFF
+r  #294510FF
+t  #2B4712FF
+y  #2C4813FF
+u  #2F4B16FF
+i  #304C17FF
+p  #334F1AFF
+a  #344E18FF
+s  #3C5116FF
+d  #34501BFF
+f  #36521DFF
+g  #37531EFF
+h  #38541FFF
+j  #395520FF
+k  #3A5621FF
+l  #3B5722FF
+z  #3C5823FF
+x  #3D5924FF
+c  #3F5B26FF
+v  #404A0DFF
+b  #454F12FF
+n  #4E4F1CFF
+m  #455514FF
+M  #4F501DFF
+N  #50511EFF
+B  #51521FFF
+V  #405C27FF
+C  #415D28FF
+Z  #435F2AFF
+A  #525320FF
+S  #5A5729FF
+D  #5C592BFF
+F  #5F5C2EFF
+G  #685E37FF
+H  #44602BFF
+J  #45612CFF
+K  #47632EFF
+L  #48642FFF
+P  #496530FF
+I  #4B6732FF
+U  #4C6833FF
+Y  #4F6B36FF
+T  #506C37FF
+R  #536F3AFF
+E  #56723DFF
+W  #60612EFF
+Q  #666335FF
+!  #696638FF
+~  #6D633CFF
+^  #5A7641FF
+/  #5E7A45FF
+(  #746445FF
+)  #786E47FF
+_  #627E49FF
+`  #846C55FF
+'  #8C745DFF
+]  #907363FF
+[  #957868FF
+{  #997C6CFF
+}  #9F7A70FF
+|  #A07B71FF
+ . #66824DFF
+.. #AC807FFF
+X. #AC877DFF
+o. #B28685FF
+O. #BC908FFF
++. #BD8991FF
+@. #C28E96FF
+#. #D194A6FF
+$. #DA99B1FF
+%. #E39FBCFF
+&. #E5A1BEFF
+*. #E8A4C1FF
+=. #EBA3C4FF
+-. #EEA6C7FF
+;. #FAAAD2FF
+:. #FBABD3FF
+>. #FCACD4FF
+,. #FFAFD7FF
+<. #FFB3DFFF
+1. #FFB3E0FF
+2. #FFB5EAFF
+3. #FFBDFAFF
+4. #FFC6FFFF
+5. #FFC7FFFF
+6. #FFCBFFFF
+7. #FFCCFFFF
+8. #FFD3FFFF
+9. #FFD6FFFF
+0. #FFDBFFFF
+q. #FFDFFFFF
+w. #FFE1FFFF
+e. #FFE6FFFF
+r. #FFE9FFFF
+t. #FFEDFFFF
+y. #FFF2FFFF
+u. #FFF7FFFF
+i. #FFFAFFFF
+p. #FFFFFFFF
+p.p.p.p.p.p.p.p.p.p.i.u.y.y.y.t.r.r.e.e.e.w.w.w.w.q.q.q.q.q.0.q.0.q.q.q.0.q.q.q.q.w.w.e.e.r.r.r.t.y.y.y.i.i.p.p.p.p.p.p.p.p.p.p.
+p. ._ / E E R T I I I C V x x k h g f p p i u u u y t t t t t t t t t t t t u u i i i p p d h d k z c C H J I I Y R E E / _  .p.
+p._ / ^ E R Y I L J C V x k k f p p i i u y t y t 6 6 6 4 6 4 2 4 4 6 t 4 t 4 t t t y i i i p d g h l x V H J I U Y E R ^ / _ p.
+p./ ^ E R Y I I J C C x k f f d i i i t t t 6 6 4 4 4 4 4 4 , , , , 4 , 4 4 4 4 6 6 t t y u i p d f g k z V C J L I Y R E ^ / p.
+p.^ E R Y I J J C x k k f p p u i t t t 6 6 6 , 2 2 , , , , , , = , = , , , , , 4 4 4 6 t y t i u d d f k k z C C I I Y R E ^ p.
+p.E R Y I J H C x k g p d p u u t 6 5 6 , , , , , , , = @ @ , = @ , @ , @ , , , , , , 4 4 2 t t y u i d f h z z C C H I Y R E p.
+p.R Y I J H C x l k p p u u t t t 5 , , , , = = @ @ = @ @ @ @ @ @ @ @ @ @ @ @ @ = = , , , 4 6 6 t t u u d d f k x C H I I Y R p.
+p.T U L J C x k f f d u u t 5 4 6 , , , = = = = @ O @ X @ . @ . O O . @ . @ @ @ @ = @ = , , , 4 4 t t y u p f f k x C C L I Y p.
+p.I I J C x k f d p u u t 6 4 4 , , = = = O O @ X X X X X X X X . X X X . . . @ @ @ @ @ = = , , 4 5 6 t t u p p k k x C J I I p.
+i.I J C x k h p p u t t 4 4 , 2 = = = @ O O X . X X . . . . .   . . . . . . . . . O O @ @ = = = 2 2 4 6 t t u d f h k x C I L p.
+i.J H c x k p p u t t 6 4 , , , = O O X O X X . X .                 . .     . . . . . O X @ @ = # 2 , 4 5 t t u p p f k V H H i.
+i.J V l g f d u t t 5 4 , , @ @ = @ O X X X X .   .           .   . . .   . . . . . . . X O @ O @ # , 2 4 4 t u u p f k k C C u.
+y.C x k f p u u t 5 4 , , = @ @ X O X . X . . $ $ $ $ $ $ $ $ X . . & & & & & & & % X : : : : : : 1 = 2 , 4 5 t t u p f k z C y.
+y.x z h d u u t 6 4 , , # = @ O X . X . X 7 +.4.4.4.4.4.4.$.S . . ( 4.4.6.6.4.6.4.w 4.4.6.6.6.6.7.7.b = , , 4 6 t u p p k k x y.
+y.x k d d u t t 4 2 , @ @ @ X X X . O . > #.4.6.4.6.6.4.3.| & . . } 4.6.4.6.4.4.G % 4.4.4.6.6.4.6.4.A = # 2 2 5 t t u d f k x y.
+t.k f p i t t 5 4 , 2 = @ O X . . . $ 7 #.4.7.4.4.4.6.3.] X .   . } 4.4.4.4.6.S . X 6.6.4.4.4.6.6.3.N @ @ , , , 4 t y i d f k t.
+r.h f i u t 4 4 , = @ @ . . . . . . 7 $.6.4.4.4.4.4.3.] $ .     . } 4.4.4.4.S   X X 4.4.6.4.4.4.4.3.N X @ , @ , , 6 t u i p j r.
+r.f p u t t 4 , , @ @ @ @ X . . . w $.4.4.6.4.6.4.3.] $ . .     . } 6.6.4.S     . % 4.6.4.7.4.6.4.3.N O . , # 2 , 6 t t i p f r.
+r.f p u t t 4 , , @ @ @ . . X . w %.4.4.4.6.4.4.3.] X   .         } 4.4.S . . . . X 6.4.6.4.6.4.6.3.M X X @ # @ , 4 6 t u p f r.
+e.p u t 6 4 , , , @ . . . . . v %.4.4.4.6.4.6.3.` $               } 6.S   .     . $ 4.7.4.4.4.7.4.3.M . X X @ , , , 6 6 t u p e.
+e.p y t 6 4 , , @ @ @ . .   w =.4.4.6.4.4.4.3.` . . .             ( S .         X $ 4.4.6.4.6.4.6.3.M X X % @ @ # , 4 5 t u p w.
+w.u u t 4 2 , @ @ . . . . w =.4.4.6.4.4.4.2.` X                 . .   .         X S 6.4.4.6.4.4.4.%.&   X . X @ = 2 2 4 t t u w.
+w.u t t 4 , = @ % @ . . w =.6.4.6.4.4.4.3.( X X . .             . .         . . S 7.4.6.4.4.4.4.&.w . . . . X @ @ 2 2 4 6 t u e.
+w.u t 6 4 , = @ X X X n =.6.4.6.4.6.6.2.( X . .                 .       . . . S 4.4.4.4.4.6.4.=.w . . . . . X @ @ @ 2 2 6 t u w.
+q.u 6 4 2 , = % O . M ;.7.4.6.4.4.6.2.(   . .                   .       X   n 4.6.4.4.4.6.4.=.w . . .   . . O O @ # = , 5 t y w.
+q.y t 4 , = = O % D ;.6.4.4.4.4.4.2.( . .   . .                           S 4.4.6.4.4.6.6.=.n . .   .   . . . O @ # , 2 4 t u q.
+w.y 5 4 , , = O N ;.6.4.6.4.7.4.2.G . . .   . .             . .     . . n 4.4.4.6.4.4.4.;.n   .         . . . . O = , , 4 t t q.
+w.y 5 4 , = @ D ,.7.4.4.4.6.4.2.G . . .   . . .             . .     . M 6.4.4.6.4.4.6.;.n . .               . . O @ @ 2 , 4 t q.
+q.t 6 4 , = F <.6.4.4.6.4.6.2.G X $ $ $ $ $ $ $ X $ $ $ $ $ $ . . . M ;.4.6.4.4.4.4.;.n . .     . $ X       . . O @ @ , 4 6 t q.
+0.t 4 4 , 9 *.6.6.4.6.4.4.4.2.$.%.%.%.%.%.%.%.%.%.%.%.%.%.%.} $ . . 6.4.6.4.6.4.6.4.( . .       X : :       . . O @ = , 4 4 t q.
+q.t 4 2 = 9 ,.6.6.4.6.4.4.6.4.4.4.4.6.4.6.4.7.4.4.4.4.6.4.4.#.O   X 4.4.4.7.4.6.4.4.G   .       v 4.M X . . . O O @ = , , 4 t 0.
+0.t 4 2 , 9 <.6.6.4.6.4.7.4.6.4.4.4.4.6.4.4.4.6.4.4.7.4.6.4.#.. . $ 6.4.6.4.4.4.4.4.G       . w 4.4.M X . . . . O @ @ , , 4 t q.
+0.t t , , 8 <.6.6.4.6.6.6.4.7.4.4.6.4.7.4.6.4.6.4.6.4.6.6.4.#.X   $ 6.4.6.4.7.4.4.4.G   .   w 4.4.4.n .       . O # , @ , 4 t 0.
+q.t 4 , , 8 1.6.6.6.4.4.4.6.4.4.4.4.6.4.6.4.4.4.4.4.6.4.4.4.#.X   $ 4.7.4.4.4.6.4.4.G     w 6.4.6.6.n       . . O @ # , , t t 0.
+0.t 5 , # 0 1.7.6.4.6.4.4.4.4.4.4.7.4.4.4.6.4.4.4.7.4.4.4.6.#.X   $ 4.4.6.4.6.4.4.6.G   w 4.4.4.4.4.n       . O O O # @ , t t q.
+q.t t , , 8 @.-.&.%.%.%.%.&.%.%.%.%.%.%.%.%.2.4.6.4.6.6.4.4.#.X   $ 4.4.4.7.4.4.4.4.G w 6.4.4.6.7.4.n   . . . . O # , , 4 4 t q.
+q.t t , , , ; & % & % & X & $ & $ & X & X X | 4.4.4.4.7.4.4.#.X . % 4.4.4.4.4.6.4.6.] 4.6.4.4.4.4.6.M O . . . O . @ @ , , t t q.
+q.t t 4 2 @ # X . . . .         . .   .     o.4.6.4.6.4.6.4.#.X . . 4.( ( ( ( ( ( ( G ( ( ( ( ( ( G &       O . @ @ , , 4 t t q.
+q.t 5 4 , , @ @ X . . .                 .   } 6.4.7.4.6.6.4.#.X . .                             . .       . . O @ @ , , 4 4 t q.
+q.u t 4 , , , @ X . . .                 . X o.4.6.4.4.4.4.4.#.O                                 .         . O . @ , , , 4 t u q.
+w.u t 5 4 , @ @ @ . O . .                   | 6.4.6.4.7.4.6.#..                                         . O O O @ @ , 4 t t u q.
+w.u t 4 4 2 2 # O O . .                     o.4.6.4.4.4.6.4.#.O                                         . . O @ @ , , 4 4 t u w.
+w.u u t 4 , , @ # O O .                 . . | 4.4.6.4.4.4.4.#.. . .   .       .                     . . . . X # @ , , 4 t y p w.
+e.p u t t , , , # O O O .               . . ` %.%.%.%.%.%.%.} $ . X 4.X .     .                     . O . O X # , , 4 4 t y p e.
+e.p u t 5 t , , # @ O . . .             .   . $ X $ $ $ $ $ . . . & 4.& X . . . . . . . .   . .   . . . O O % # , , 6 t y u d e.
+e.p p u t 4 4 , # # O O . .                   .         . . .     $ 4.& . 6.4.. : 4.6.4.w 4.6.S n 6.$ 7 7.v 7.Q 2 8.! t u i d r.
+r.f p u t t 4 , , , @ O . . .                           .         $ 4.& $ 4.. 6.G 6.  G G 4...4.` 6.X A 7.~ 7.8.q 9.) t i p f r.
+t.f f p u t 4 4 , # # - O O . .                                   & 4.& & 4.4.. S 6.4.4.( 4.6.] | 6.. ~ 7.~ 8.8.X.9.W y p f h t.
+t.k g d u t t 4 , , , @ @ . O . . . . .                         . $ 6.& w 4.. 4.] 6.G v ] 4.6.w +.4.. [ 8.' 8.Q 9.9.m i p h k t.
+t.x k d p u t t t , , # @ @ @ . . . . .                         . & 4.& M 4.4.  ` 4.4.4.{ 6.+.6.@.6.7.o.7.{ 8.6 O.0.s p d h z t.
+y.c l g p p u t 4 4 , , @ @ @ . X X . .                         . . 4.7 & .     .   X   X X X X X O = = 0 q e 6 t u a d h z V y.
+i.C z k f p u t t 6 4 , , , # @ O X X . .                       . $ 7.>   .           $ X X X X @ = = , , 4 6 t y i p f k z V u.
+u.C V z k a p u t t 6 4 , , # , @ @ X X X . . .     .       .   .   X X . .       . . . X O @ @ = = , , 4 6 t y u p p k k V H i.
+i.I Z C k k f p i t t 4 4 , , @ = O @ X X X . . . . . .     . .         . . . . . . . X O O @ = = , 2 4 6 t t u p f k k C C J i.
+p.I Z C x x k p p u t t 4 4 , , @ = = @ @ X X X . X . . . . . .   X X   . . X . . O O @ @ = @ = , , 4 6 t t i p p f k C V H I p.
+p.I I C C x k j p p p t t t 4 4 , , , = = @ @ O . O X X . . . X X X X X X X O O @ @ @ @ = @ 4 2 2 6 6 t y i a p k k x C J I U p.
+p.Y Y J C C x k f p p u t t t 4 4 , , , = = @ @ @ @ @ . . @ O . X X X X X X X - = @ = @ 2 2 2 4 4 t t t u p f h k k C H U U T p.
+p.E Y I I J C x k k f p i u t t t 4 2 2 , , 2 @ @ , @ @ @ @ @ @ = = = X = = - - @ = 2 2 2 2 6 4 t t u u i f h k x C C H U Y R p.
+p.E R Y I J J C x l k p p p u t t 4 4 4 2 4 , 2 , , = = , @ @ = = = = = # # # , , 2 , 4 4 4 6 y y u p p f f z x C C I I Y R E p.
+p.^ E R Y I J J C x k k f p p i u t u t 6 4 4 2 , , , , , , , , = = , , , , , , 4 4 4 4 t t y u u p f f k k x C C I I Y T E ^ p.
+p./ ^ E R Y I J J C C k k k p p p u u y t t t 4 4 4 4 , 4 4 , , , , 4 , r 6 , 6 4 t t y y u i u p d f k z x C J J I Y R E ^ / p.
+p._ / ^ E R Y I U J C C k l k j p f i u y u t t t t t 4 6 4 4 6 5 4 t 5 6 6 6 t y y t u u i d f f k k x V H J U U Y R E ^ / _ p.
+p. ._ / E E E Y Y I J J C x k k h f d p p i u u u t t t t t t t t t t t t t t i u u i p d d f k k x V C C L I U T R E ^ / _  .p.
+p.p.p.p.p.p.p.p.p.i.i.u.u.y.t.t.r.r.r.e.e.w.w.w.q.q.q.q.q.0.q.0.q.0.0.q.q.q.q.q.w.w.w.e.e.r.r.r.t.t.y.u.u.i.i.p.p.p.p.p.p.p.p.p.
